@@ -1,0 +1,7 @@
+react component
+2 types of component
+1) class based component- the old way to writing code(no body using that)
+2) functional  component- just a normal javascript function, 
+a function that return a jsx/react element
+
+code is readable becuase you have use jsx

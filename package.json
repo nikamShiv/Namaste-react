@@ -1,0 +1,40 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "react, react-dom, "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikamShiv/Namaste-react.git"
+  },
+  "keywords": [
+    "shivani",
+    "react",
+    "namste",
+    "react"
+  ],
+  "author": "Shivani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikamShiv/Namaste-react/issues"
+  },
+  "homepage": "https://github.com/nikamShiv/Namaste-react#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "file:",
+    "process": "^0.11.10"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ]
+}
